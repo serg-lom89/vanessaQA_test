@@ -10,9 +10,9 @@
 Переменные:
 	
 	КоличествоЭлементов = 10;
-    СсылкаЕдИзм =     "e1cib/data/Catalog.Units?ref=b762b13668d0905011eb76684b9f687b";
-	ВидНоменклатуры = "e1cib/data/Catalog.ItemTypes?ref=b762b13668d0905011eb76684b9f6878";
-    Производитель   = "e1cib/data/Catalog.Partners?ref=b762b13668d0905011eb7663e35d794d";
+    СсылкаЕдИзм         =     "e1cib/data/Catalog.Units?ref=b762b13668d0905011eb76684b9f687b";
+	ВидНоменклатуры     = "e1cib/data/Catalog.ItemTypes?ref=b762b13668d0905011eb76684b9f6878";
+    Производитель       = "e1cib/data/Catalog.Partners?ref=b762b13668d0905011eb7663e35d794d";
 
 Контекст:
 	Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий
